@@ -1,0 +1,6 @@
+framework module BolddeskSample {
+  umbrella header "BolddeskSample.h"
+  export *
+
+  module * { export * }
+}
