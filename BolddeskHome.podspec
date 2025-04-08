@@ -13,4 +13,5 @@ unzip BolddeskCommonUI.xcframework.zip
 CMD
 s.vendored_frameworks = ['BolddeskReg.xcframework', 'BolddeskPlugin.xcframework', 'BolddeskCommonUI.xcframework']
 s.ios.deployment_target = '12.0'
+s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 x86_64' }
 end
