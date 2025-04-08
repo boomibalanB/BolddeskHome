@@ -4,17 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>BolddeskCommonUI.xcframework</key>
-		<data>
-		iEiJouPnCPzj2pQ7YML2MLbbWvc=
-		</data>
-		<key>BolddeskPlugin.xcframework</key>
-		<data>
-		LhWhKOa8Ul82K5R0cGJrpiHSQQM=
-		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		BIvwGXK1FHTFLd13QmPFySq3Quo=
+		5jRBzwVRqdu82f9gKSLl6FkvkvU=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +46,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		IwpsSnuTuRr4yI5/nVdUJVqezrI=
+		psd1kvAtVfSbEC0DErefU+wqwx0=
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
@@ -74,7 +66,7 @@
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/FlutterPluginRegistrant</key>
 		<data>
-		gdwk8mLE5iaR8ypLeldTH/vItbs=
+		fmR6wxn3JMi5YJXkzdM8h2mOyrg=
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/Info.plist</key>
 		<data>
@@ -94,7 +86,7 @@
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		lF6LdNUYZfD1tazQvdn8n9R6KqM=
+		E/CdB17cRFVxeWehr7aRCsP8cPo=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -139,25 +131,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>BolddeskCommonUI.xcframework</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y269rKDC4/gB/ExyBgRBMmLWo1+up6+/3WKftKGkKEI=
-			</data>
-		</dict>
-		<key>BolddeskPlugin.xcframework</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8zr3qkEv93VXH2nd7hnM4pkQPf6zVI0D3KetMqaSvjQ=
-			</data>
-		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jTzjaaN8ZgTx4Z25oGZ7gx7KKKNGJwSm6qy8Ko8yPhE=
+			bunKGijo5uriuIeU/PSibfZWOwdN6t6wZfbZpQZc9vU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -227,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hv4mpTQybRASbpmWTjz/LtpsJ7QTUQk12Ikl8cBElzw=
+			STefKRXcjG/Bj6urFVaL856W9GBFtgegqIT2I2uxzzw=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
@@ -262,7 +240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fmGCC2rlq5QJP4JAoHvc5kzkeg9cSa9YUMZzEo/3EMU=
+			kkxmu2CTl7y4n1l6iOu9ZjyNzfgvHwAolChH4nO+fLE=
 			</data>
 		</dict>
 		<key>Frameworks/FlutterPluginRegistrant.framework/Info.plist</key>
@@ -297,7 +275,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qKg8Maws8Ej4WLKn7Z+j00cTanYtqkpnAxcCQn7g0Q0=
+			Nh3/b45Vd3w+bQ+taDOyhT7PKMdJ9py2QJnTUDUPdpE=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
