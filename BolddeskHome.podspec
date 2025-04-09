@@ -9,6 +9,10 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Boomibalan B' => 'boomibalan.b@syncfusion.com' }
   s.source           = { :git => 'https://github.com/boomibalanB/BolddeskHome.git', :tag => s.version.to_s }
-  s.vendored_frameworks = 'BolddeskSample.xcframework'
+    # Download and extract frameworks at install time
+  s.prepare_command = <<-CMD
+    curl -L -o AppFramework.zip https://github.com/boomibalanB/BolddeskHome/blob/main/BolddesCommonUI.xcframework.zip
+  CMD
+  s.vendored_frameworks = ['BolddeskSample.xcframework', 'BolddeskPlugin.xcframework', 'BolddesCommonUI.xcframework.zip']
   s.ios.deployment_target = '12.0'
 end
