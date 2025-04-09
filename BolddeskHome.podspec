@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BolddeskHome'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'Flutter BolddeskHome framework'
   s.description      = <<-DESC
     The BolddeskHome Flutter plugin provides a native framework integration for iOS using an xcframework.
